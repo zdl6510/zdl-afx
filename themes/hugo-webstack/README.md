@@ -217,7 +217,7 @@ icon：fa-regular fa-star
 ```yaml
     - title: 二维码演示
       qrcode: images/qrcodes/cli.png
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=cli.im
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
 ```

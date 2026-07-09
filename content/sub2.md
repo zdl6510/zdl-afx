@@ -13,45 +13,52 @@ data:
   icon: fa-star
   links: 
     - title: Dribbble
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=dribbble.com
       url: https://dribbble.com/
       description: 全球UI设计师作品分享平台。
     - title: Behance
+      logo: https://www.google.com/s2/favicons?sz=64&domain=behance.net
       url: https://behance.net/
       description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
     - title: 二维码演示
       qrcode: ../images/qrcodes/cli.png
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=cli.im
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
     - title: UI中国
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.ui.cn
       url: https://www.ui.cn/
       description: 图形交互与界面设计交流、作品展示、学习平台。
     - title: 站酷
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.zcool.com.cn
       url: https://www.zcool.com.cn/
       description: 中国人气设计师互动平台
     - title: Pinterest
-      logo:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.pinterest.com
       url: https://www.pinterest.com/
       description: 全球美图收藏采集站
     - title: 花瓣
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=huaban.com
       url: https://huaban.com/
       description: 收集灵感,保存有用的素材
     - title: Medium
+      logo: https://www.google.com/s2/favicons?sz=64&domain=medium.com
       url: https://medium.com/
       description: 高质量设计文章
     - title: 优设
-      logo:  
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.uisdc.com
       url: https://www.uisdc.com/
       description: 设计师交流学习平台
     - title: Producthunt
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.producthunt.com
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
     - title: Youtube
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
     - title: Google
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.google.com
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
     
@@ -1045,30 +1052,40 @@ data:
       url: ../sub1
       description: 本站子页面一
     - title: webstack.cc
+      logo: https://www.google.com/s2/favicons?sz=64&domain=webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
     - title: 一为导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=nav.iowen.cn
       url: https://nav.iowen.cn/
       description: onenav主题演示站
     - title: 趣导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=qssily.com
       url: https://qssily.com/
     - title: 404导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.404dh.icu
       url: https://www.404dh.icu/
       description: 只导航优质资源
     - title: OPENI
+      logo: https://www.google.com/s2/favicons?sz=64&domain=openi.cn
       url: https://openi.cn/
     - title: 飞猪ai导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=feizhuke.com
       url: https://feizhuke.com/
       description: AI工具集箱
     - title: bioit导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.bioit.top
       url: https://www.bioit.top/
       description:
     - title: 所长导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=liutongxu.github.io
       url: https://liutongxu.github.io/
       description:
     - title: 一为webstack
+      logo: https://www.google.com/s2/favicons?sz=64&domain=webstack.iotheme.cn
       url: https://webstack.iotheme.cn/
     - title: iplaycode
+      logo: https://www.google.com/s2/favicons?sz=64&domain=iplaycode.github.io
       url: https://iplaycode.github.io/nav/
       description: iplaycode的demo导航网站
 ---

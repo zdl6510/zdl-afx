@@ -4,13 +4,13 @@
   icon: fa-star
   links: 
     - title: YouTube
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
       description: 一个专注于软件安装，科学上网教学的频道！
     - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
+      qrcode: 
+      logo:  https://img.zhengdengliang.com/file/blog/AI/tools/1781160700966_image-20260611145132490.png
+      url: https://blog.zhengdengliang.com/
       description: 资源分享，详细图文教程。
     - title: 全宇宙最便宜的vps
       logo: images/logos/racknerd.png
@@ -26,11 +26,12 @@
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
     - title: "万事达虚拟银行卡"
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.bybit.com
       url: "https://www.bybit.com/invite?ref=QAM3MOJ"
       description: "国内usdt消费,支付宝、微信充值，海外消费。"
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
-      logo:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=app.pokepay.cc
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892
       description: usdt套现，国内拼多多消费，支付宝消费
     - title: IOS (苹果) ID 礼品卡/兑换码
@@ -38,28 +39,31 @@
       url: https://app.xintaifree.com?from=5431/
       description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
     - title: Telegram
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=t.me
       url: https://t.me/kjgxZY/
       description: 科技共享资源频道
     - title: Telegram群组
+      logo: https://www.google.com/s2/favicons?sz=64&domain=t.me
       url: https://t.me/+qf_DtRZ90ys2ZDBl/
       description: 沟通交流，资源分享
     - title: 接码平台
-      logo:  
+      logo: https://www.google.com/s2/favicons?sz=64&domain=hero-sms.com
       url: https://hero-sms.com/?ref=489021/
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
     - title: Base64编码解码
+      logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
     - title: 文叔叔
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.wenshushu.cn
       url: https://www.wenshushu.cn/
       description: 传临时文件,大文件、永不限速
     - title: 网络剪贴板
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=clipboard.168668520.xyz
       url: https://clipboard.168668520.xyz/
       description: 提供数据暂存和传送服务
     - title: UUID生成
+      logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
       url: https://99688988.xyz/uuid-generator/
       description: UUID在线生成
     - title: 轻抖
@@ -1065,30 +1069,40 @@
       url: sub2
       description: 本站子页面2
     - title: webstack.cc
+      logo: https://www.google.com/s2/favicons?sz=64&domain=webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
     - title: 一为导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=nav.iowen.cn
       url: https://nav.iowen.cn/
       description: onenav主题演示站
     - title: 趣导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=qssily.com
       url: https://qssily.com/
     - title: 404导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.404dh.icu
       url: https://www.404dh.icu/
       description: 只导航优质资源
     - title: OPENI
+      logo: https://www.google.com/s2/favicons?sz=64&domain=openi.cn
       url: https://openi.cn/
     - title: 飞猪ai导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=feizhuke.com
       url: https://feizhuke.com/
       description: AI工具集箱
     - title: bioit导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.bioit.top
       url: https://www.bioit.top/
       description:
     - title: 所长导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=liutongxu.github.io
       url: https://liutongxu.github.io/
       description:
     - title: 一为webstack
+      logo: https://www.google.com/s2/favicons?sz=64&domain=webstack.iotheme.cn
       url: https://webstack.iotheme.cn/
     - title: iplaycode
+      logo: https://www.google.com/s2/favicons?sz=64&domain=iplaycode.github.io
       url: https://iplaycode.github.io/nav/
       description: iplaycode的demo导航网站
 ---
